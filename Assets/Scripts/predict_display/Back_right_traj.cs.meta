@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71394243ccbef6246aa8ef34ddcb755d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - est_parameter: {instanceID: 0}
+  - predict_param: {fileID: 11400000, guid: c3b4527ce9396b149912baae20195f16, type: 2}
+  - vehicle_param: {fileID: 11400000, guid: a6c1e320fc5a01a4c9c4e8fbfe94976d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

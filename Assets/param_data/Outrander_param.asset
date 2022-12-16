@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c903cfc1f05803e48a52aa51041b7451, type: 3}
+  m_Name: Outrander_param
+  m_EditorClassIdentifier: 
+  gear_rasio: 18
+  W: 2.705
+  T: 1.595
+  lf: 1.3525
+  lr: 1.3525
+  center_side: 0.93
+  center_long: 2.355
+  center_up: 1.745
+  camera_pos_Y: 1.97
+  camera_pos_Z: 0.3
